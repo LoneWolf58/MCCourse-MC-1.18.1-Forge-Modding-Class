@@ -7,14 +7,14 @@
   ],
   "key": {
     "#": {
-      "item": "mccourse:cobalt_ingot"
+      "item": "mccourse:cobalt_block"
     },
     "I": {
-      "item": "minecraft:nether_star"
+      "item": "minecraft:slime_block"
     }
   },
   "result": {
-    "item": "minecraft:diamond",
+    "item": "minecraft:barrier",
     "count": 64
   }
 }
