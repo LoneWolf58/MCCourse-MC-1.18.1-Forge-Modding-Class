@@ -6,8 +6,8 @@ import net.minecraftforge.common.ForgeTier;
 
 public class ModTiers
 {
-    public static final ForgeTier COBALT = new ForgeTier(1, 1500, 1f,
-            4f, 10, BlockTags.NEEDS_DIAMOND_TOOL,
+    public static final ForgeTier COBALT = new ForgeTier(10, 3031, 20.0f,
+            10.0f, 20, BlockTags.NEEDS_DIAMOND_TOOL,
             () -> Ingredient.of(ModItems.COBALT_INGOT.get()));
 
 }
